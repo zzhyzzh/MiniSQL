@@ -1,0 +1,3 @@
+insert into albums values('Dangerous Woman', 2016, 'pop', 'Ariana Grande');
+insert into albums values('25', 2015, 'pop', 'Adele');
+select * from albums;

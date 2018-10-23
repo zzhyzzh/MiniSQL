@@ -1,0 +1,53 @@
+﻿  RecordManager.cpp
+c:\users\adminn\documents\visual studio 2015\projects\minisql_1.14\minisql\stdafx.h(42): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\adminn\documents\visual studio 2015\projects\minisql_1.14\minisql\stdafx.h(224): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\adminn\documents\visual studio 2015\projects\minisql_1.14\minisql\recordmanager.cpp(92): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\adminn\documents\visual studio 2015\projects\minisql_1.14\minisql\recordmanager.cpp(120): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\adminn\documents\visual studio 2015\projects\minisql_1.14\minisql\recordmanager.cpp(178): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\adminn\documents\visual studio 2015\projects\minisql_1.14\minisql\recordmanager.cpp(205): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\adminn\documents\visual studio 2015\projects\minisql_1.14\minisql\recordmanager.cpp(347): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\adminn\documents\visual studio 2015\projects\minisql_1.14\minisql\recordmanager.cpp(355): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\adminn\documents\visual studio 2015\projects\minisql_1.14\minisql\recordmanager.cpp(367): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\adminn\documents\visual studio 2015\projects\minisql_1.14\minisql\recordmanager.cpp(412): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\adminn\documents\visual studio 2015\projects\minisql_1.14\minisql\recordmanager.cpp(454): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\adminn\documents\visual studio 2015\projects\minisql_1.14\minisql\recordmanager.cpp(497): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\adminn\documents\visual studio 2015\projects\minisql_1.14\minisql\recordmanager.cpp(536): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\adminn\documents\visual studio 2015\projects\minisql_1.14\minisql\recordmanager.cpp(572): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\adminn\documents\visual studio 2015\projects\minisql_1.14\minisql\recordmanager.cpp(580): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\adminn\documents\visual studio 2015\projects\minisql_1.14\minisql\recordmanager.cpp(636): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\adminn\documents\visual studio 2015\projects\minisql_1.14\minisql\recordmanager.cpp(679): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\adminn\documents\visual studio 2015\projects\minisql_1.14\minisql\recordmanager.cpp(721): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\adminn\documents\visual studio 2015\projects\minisql_1.14\minisql\recordmanager.cpp(771): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\adminn\documents\visual studio 2015\projects\minisql_1.14\minisql\recordmanager.cpp(773): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\adminn\documents\visual studio 2015\projects\minisql_1.14\minisql\recordmanager.cpp(859): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\adminn\documents\visual studio 2015\projects\minisql_1.14\minisql\recordmanager.cpp(960): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\adminn\documents\visual studio 2015\projects\minisql_1.14\minisql\recordmanager.cpp(966): warning C4018: “>”: 有符号/无符号不匹配
+c:\users\adminn\documents\visual studio 2015\projects\minisql_1.14\minisql\recordmanager.cpp(968): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\adminn\documents\visual studio 2015\projects\minisql_1.14\minisql\recordmanager.cpp(980): warning C4018: “>=”: 有符号/无符号不匹配
+c:\users\adminn\documents\visual studio 2015\projects\minisql_1.14\minisql\recordmanager.cpp(982): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\adminn\documents\visual studio 2015\projects\minisql_1.14\minisql\recordmanager.cpp(1000): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\adminn\documents\visual studio 2015\projects\minisql_1.14\minisql\recordmanager.cpp(1008): warning C4018: “>”: 有符号/无符号不匹配
+c:\users\adminn\documents\visual studio 2015\projects\minisql_1.14\minisql\recordmanager.cpp(1010): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\adminn\documents\visual studio 2015\projects\minisql_1.14\minisql\recordmanager.cpp(1022): warning C4018: “>=”: 有符号/无符号不匹配
+c:\users\adminn\documents\visual studio 2015\projects\minisql_1.14\minisql\recordmanager.cpp(1024): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\adminn\documents\visual studio 2015\projects\minisql_1.14\minisql\recordmanager.cpp(1058): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\adminn\documents\visual studio 2015\projects\minisql_1.14\minisql\recordmanager.cpp(1072): warning C4018: “>”: 有符号/无符号不匹配
+c:\users\adminn\documents\visual studio 2015\projects\minisql_1.14\minisql\recordmanager.cpp(1074): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\adminn\documents\visual studio 2015\projects\minisql_1.14\minisql\recordmanager.cpp(1091): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\adminn\documents\visual studio 2015\projects\minisql_1.14\minisql\recordmanager.cpp(1104): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\adminn\documents\visual studio 2015\projects\minisql_1.14\minisql\recordmanager.cpp(1118): warning C4018: “>”: 有符号/无符号不匹配
+c:\users\adminn\documents\visual studio 2015\projects\minisql_1.14\minisql\recordmanager.cpp(1120): warning C4018: “<”: 有符号/无符号不匹配
+  API.cpp
+c:\users\adminn\documents\visual studio 2015\projects\minisql_1.14\minisql\stdafx.h(42): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\adminn\documents\visual studio 2015\projects\minisql_1.14\minisql\stdafx.h(224): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\adminn\documents\visual studio 2015\projects\minisql_1.14\minisql\api.cpp(47): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+c:\users\adminn\documents\visual studio 2015\projects\minisql_1.14\minisql\api.cpp(48): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+c:\users\adminn\documents\visual studio 2015\projects\minisql_1.14\minisql\api.cpp(209): warning C4101: “end”: 未引用的局部变量
+c:\users\adminn\documents\visual studio 2015\projects\minisql_1.14\minisql\api.cpp(209): warning C4101: “start”: 未引用的局部变量
+c:\users\adminn\documents\visual studio 2015\projects\minisql_1.14\minisql\api.cpp(384): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\adminn\documents\visual studio 2015\projects\minisql_1.14\minisql\api.cpp(407): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+c:\users\adminn\documents\visual studio 2015\projects\minisql_1.14\minisql\recordmanager.cpp(104): warning C4715: “RecordManager::lastRecordInBlock”: 不是所有的控件路径都返回值
+c:\users\adminn\documents\visual studio 2015\projects\minisql_1.14\minisql\recordmanager.cpp(132): warning C4715: “RecordManager::firstRecordInBlock”: 不是所有的控件路径都返回值
+c:\users\adminn\documents\visual studio 2015\projects\minisql_1.14\minisql\recordmanager.cpp(146): warning C4715: “RecordManager::isFull”: 不是所有的控件路径都返回值
+  minisql.vcxproj -> C:\Users\adminn\Documents\Visual Studio 2015\Projects\minisql_1.14\Debug\minisql.exe

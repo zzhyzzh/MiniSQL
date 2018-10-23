@@ -1,0 +1,5 @@
+﻿  Interpreter.cpp
+c:\users\adminn\documents\visual studio 2015\projects\minisql_1.15\minisql\stdafx.h(140): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\adminn\documents\visual studio 2015\projects\minisql_1.15\minisql\stdafx.h(159): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\adminn\documents\visual studio 2015\projects\minisql_1.15\minisql\interpreter.cpp(68): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  minisql.vcxproj -> C:\Users\adminn\Documents\Visual Studio 2015\Projects\minisql_1.15\x64\Debug\minisql.exe
